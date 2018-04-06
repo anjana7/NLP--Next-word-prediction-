@@ -1,1 +1,1 @@
-This is a git repo
+This project deals with the next word prediction that comes under NLP. I have used the n-gram model and tried to bring a comparison between the bigram and trigram models. It is important to devise a balance between the n value in n-gram and the processing time. We don't want out model to be overfit.
